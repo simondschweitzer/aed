@@ -1,0 +1,93 @@
+@font-face {
+	font-family: 'StandardAndTranscription';
+	src: url(BBAW-Schoell-regular_ah.ttf) format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'HieroglyphsWithLigatures';
+	src: url(EgyptianHiero4.03.ttf) format('truetype');
+	src: url(EgyptianHiero4.03.woff) format('woff');
+}
+body {
+	font-family: StandardAndTranscription, HieroglyphsWithLigatures;
+	background: ivory
+}
+a {
+	text-decoration: none
+}
+h1 {
+	background-color: #ffebe6;
+	color: red;
+	border-bottom: 10em
+}
+h2 {
+	background-color: #ccc;
+}
+h1, h2 { 
+	border-radius: .5em;
+	margin-bottom: .5em
+}
+p {
+	margin: 0;
+}
+.english_translation {
+	font-family: 'Yanone Kaffeesatz';
+	background-color: #d4e;
+}
+.source, .responsibility, .licence {
+	font-size: .8em;
+	background-color: #ccc;
+	margin: 1em
+}
+.transcription {
+	font-style: normal;
+	margin-top: .7em;
+}
+.sentence_id {
+	margin-bottom: .7em;
+	font-size: .8em;
+}
+.li {
+	margin: 0
+}
+.tooltip {
+	position: relative;
+	/* display: inline-block;
+	border-bottom: 1px dotted black; */
+	background-color: #ebf5d7;
+}
+.tooltip .tooltiptext {
+	visibility: hidden;
+	width: relative;
+	background-color: black;
+	color: #fff;
+	text-align: center;
+	padding: 5px 0;
+	border-radius: 6px;
+	top: -5px;
+	left: 105%;
+}
+.tooltip:hover .tooltiptext {
+	visibility: visible;
+}
+.sentence_id:hover .tooltiptext {
+	visibility: visible;
+}
+.table {
+	margin-bottom: 7em;
+}
+.writings {
+	font-size: 2.7em;
+}
+hr {
+	height: 5px;
+	color: blue;
+	margin: 0 auto;
+	background: #ccc;
+	margin-bottom: .6em;
+	margin-top: .3em;
+}
+.icon {
+	width: 1rem;
+}
