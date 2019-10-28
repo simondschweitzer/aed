@@ -35,7 +35,7 @@ p {
 	font-family: 'Yanone Kaffeesatz';
 	background-color: #d4e;
 }
-.source, .responsibility, .licence {
+.source, .responsibility, .licence, .fonts, .imprint {
 	font-size: .8em;
 	background-color: #ccc;
 	margin: 1em
