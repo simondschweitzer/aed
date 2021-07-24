@@ -33621,6 +33621,8 @@ https://simondschweitzer.github.io/aed/A9C.html
 https://simondschweitzer.github.io/aed/AA1.html
 https://simondschweitzer.github.io/aed/Aa5.html
 https://simondschweitzer.github.io/aed/Aa5A.html
+https://simondschweitzer.github.io/aed/aed_spellings.html
+https://simondschweitzer.github.io/aed/aed_word_translations.html
 https://simondschweitzer.github.io/aed/B1.html
 https://simondschweitzer.github.io/aed/B105.html
 https://simondschweitzer.github.io/aed/B13.html
